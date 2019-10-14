@@ -1,2 +1,2 @@
 # vestacpapi
-Vesta Control Panel Api Classes
+Vesta Control Panel Api
