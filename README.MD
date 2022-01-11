@@ -1,4 +1,4 @@
 # Vesta Control Panel API
-❥ VESTA CP ❤
+❥ VESTA CP
 
 don't try on your origin server
